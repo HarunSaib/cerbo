@@ -1,0 +1,6 @@
+# Ignore all data files dropped into the input folder, but keep the folder itself
+input/*
+!input/.gitkeep
+
+# Secrets
+.env
