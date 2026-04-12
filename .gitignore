@@ -4,3 +4,6 @@ input/*
 
 # Secrets
 .env
+
+# wandb local run files
+wandb/
