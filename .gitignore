@@ -7,3 +7,7 @@ input/*
 
 # wandb local run files
 wandb/
+
+# training outputs
+output/*
+!output/.gitkeep
