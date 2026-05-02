@@ -11,3 +11,6 @@ wandb/
 # training outputs
 output/*
 !output/.gitkeep
+
+# experimental notebooks
+transformer_malware_detection.ipynb
